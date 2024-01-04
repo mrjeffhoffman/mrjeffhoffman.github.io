@@ -2367,13 +2367,13 @@ input, select, textarea {
 				}
 
 				.box.style1 {
-					max-width: 32em;
+					max-width: 50em;
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
 
 				.box.style2 {
-					max-width: 32em;
+					max-width: 50em;
 					margin-left: auto !important;
 					margin-right: auto !important;
 				}
